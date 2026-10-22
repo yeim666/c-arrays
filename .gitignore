@@ -1,0 +1,10 @@
+# Binarios y objetos
+build/
+*.o
+*.out
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
